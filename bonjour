@@ -1,0 +1,3 @@
+#!/bin/sh
+var=Bonjour
+echo $var "$1"
